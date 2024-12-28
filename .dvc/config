@@ -1,0 +1,2 @@
+['remote "storage"']
+    url = s3://alr-dvc-data-store/dvcstore
